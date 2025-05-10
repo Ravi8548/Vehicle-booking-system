@@ -136,15 +136,3 @@ Rating: 4
 - Improve security (password hashing)
 - Real-time fare calculation with maps API
 
----
-
-## Author
-
-- Developed by: *Your Name*
-- Email: your.email@example.com
-
----
-
-## License
-
-This project is open-source and free to use for educational and learning purposes.
