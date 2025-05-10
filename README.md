@@ -1,7 +1,4 @@
 
-
-# Vehicle Booking System - Java Console Application
-
 ## Overview
 
 The **Vehicle Booking System** is a Java-based console application that allows users to register, log in, and book rides (standard or premium). The system supports functionalities like viewing ride history, rating rides, marking rides as reached, and exporting ride details to a PDF file.
