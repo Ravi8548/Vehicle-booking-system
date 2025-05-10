@@ -134,5 +134,5 @@ Rating: 4
 - Use database (like MySQL) for data persistence
 - Add driver management and vehicle allocation
 - Improve security (password hashing)
-- Real-time fare calculation with maps API
+- Real-time fare calculation with maps API 
 
