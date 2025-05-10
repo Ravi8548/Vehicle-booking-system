@@ -1,6 +1,4 @@
-Here's a detailed **README** file for your **Java-based Vehicle Booking System** project. This file provides a clear overview of the project, features, setup instructions, usage, and more — perfect for documentation or GitHub purposes.
 
----
 
 # Vehicle Booking System - Java Console Application
 
